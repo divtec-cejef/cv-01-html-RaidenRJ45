@@ -2,6 +2,11 @@
     box-sizing: border-box;
 }
 
+html {
+    max-width: 800px;
+    content: justify;
+}
+
 /* comic-neue-regular - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
