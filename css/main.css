@@ -22,7 +22,7 @@ body {
     line-height: 1.4;
     color: darkblue;
     background-color: whitesmoke;
-    background-image: url("img/Bart.jpg")
+    background-image: url("img/Bart.jpg");
 }
 
 header {
@@ -46,4 +46,8 @@ a {
 
 a:hover {
     color: 2456d6;
+}
+
+a:visited {
+    color: 191b35;
 }
