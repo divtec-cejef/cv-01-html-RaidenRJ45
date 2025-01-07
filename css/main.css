@@ -37,7 +37,7 @@ body {
     color: ede92d;
     background-color: whitesmoke;
     background-image: url("../img/Bart.jpg");
-    background-repeat: non-repeat;
+    background-repeat: no-repeat;
 }
 
 img {
