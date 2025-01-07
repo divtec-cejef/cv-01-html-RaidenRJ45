@@ -33,7 +33,6 @@ body {
     background-image: url("img/Bart.jpg");
 }
 
-
 img {
     max-width: 100%;
     height: auto;
@@ -47,4 +46,8 @@ a {
 
 a:hover {
     color: 2456d6;
+}
+
+a:visited {
+    color: 191b35;
 }
