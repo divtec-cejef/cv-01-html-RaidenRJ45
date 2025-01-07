@@ -48,12 +48,12 @@ img {
 
 a {
     color: d63924;
-    background-color: 151dc1;
     text-decoration: none;
 }
 
 a:hover {
     color: 2456d6;
+    background-color: 151dc1;
 }
 
 a:visited {
