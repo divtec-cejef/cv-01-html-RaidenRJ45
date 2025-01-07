@@ -19,6 +19,10 @@ header {
     padding: 4rem;
 }
 
+footer {
+    margin: 2em;
+}
+
 img {
     max-width: 100%;
     height: auto;
