@@ -60,9 +60,15 @@ a:hover {
 }
 
 a:visited {
-    color: 191b35;
+    color: #191b35;
 }
+
+/* CLASS */
 
 .enPx {
     size: 18px;
+}
+
+.enRem {
+    size: 4rem;
 }
