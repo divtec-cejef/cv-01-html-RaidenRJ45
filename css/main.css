@@ -53,7 +53,7 @@ a {
     text-decoration: none;
 }
 
-nav a:hover {
+li a:hover {
     color: #ffffff;
     text-decoration: underline;
     background-color: #151dc1;
