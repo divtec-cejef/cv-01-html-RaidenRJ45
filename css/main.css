@@ -39,7 +39,7 @@ body {
     color: ede92d;
     background-image: url("../img/fontSimpson.jpg");
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
 }
 
 img {
