@@ -33,13 +33,13 @@ footer {
 
 body {
     font-family: Arial, sans-serif;
-    font-weight: 400;
+    font-weight: 400px;
     font-size: 1.2rem;
-    line-height: 1.4;
+    line-height: 1.4em;
     color: ede92d;
-    background-color: whitesmoke;
     background-image: url("../img/fontSimpson.jpg");
     background-repeat: no-repeat;
+    background-position: center;
 }
 
 img {
