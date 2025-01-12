@@ -49,13 +49,14 @@ img {
 }
 
 a {
-    color: d63924;
+    color: #d63924;
     text-decoration: none;
 }
 
 a:hover {
-    color: 2456d6;
-    background-color: 151dc1;
+    color: #2456d6;
+    text-decoration: underline;
+    background-color: #151dc1;
 }
 
 a:visited {
