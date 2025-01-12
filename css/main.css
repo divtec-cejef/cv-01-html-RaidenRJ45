@@ -17,6 +17,8 @@ html {
 }
 
 h1 {
+    color: #FFDE00;
+    texte-shadow: RGB(0 , 0, 0);
     text-align: center;
     text-shadow: rgb(237, 233, 45);
 }
