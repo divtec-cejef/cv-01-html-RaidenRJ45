@@ -40,6 +40,11 @@ body {
     background-image: url("../img/fontSimpson.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    margin: 0; /*début des modif*/
+    height: 100vh; /* Hauteur de la fenêtre */
+    display: flex;
+    justify-content: center; /* Centre horizontalement */
+    align-items: center; /* Centre verticalement */
 }
 
 img {
