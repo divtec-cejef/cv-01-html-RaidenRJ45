@@ -79,5 +79,6 @@ a:visited {
 
 .center {
     text-align: center;
+    align-content: center;
     padding: 20px;
 }
