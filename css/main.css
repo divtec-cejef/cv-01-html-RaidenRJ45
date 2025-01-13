@@ -77,3 +77,11 @@ a:visited {
 .enEm {
     size: 2em;
 }
+
+/* ID */
+ 
+#competences {
+    color: #FFDE00;
+    text-shadow: 1px 2px 2px rgb(0 , 0, 0);
+    text-align: center;
+}
