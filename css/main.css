@@ -76,3 +76,8 @@ a:visited {
 .enEm {
     size: 2em;
 }
+
+.center {
+    text-align: center;
+    padding: 20px;
+}
