@@ -40,11 +40,6 @@ body {
     background-image: url("../img/fontSimpson.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    margin: 0; /*début des modif*/
-    height: 100vh; /* Hauteur de la fenêtre */
-    display: flex;
-    justify-content: center; /* Centre horizontalement */
-    align-items: center; /* Centre verticalement */
 }
 
 img {
@@ -80,12 +75,4 @@ a:visited {
 
 .enEm {
     size: 2em;
-}
-
-.center {
-    text-align: center;
-    padding: 20px;
-    background-color: #f0f0f0;
-    border: 1px solid #ccc;
-    border-radius: 8px;
 }
