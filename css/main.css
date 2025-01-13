@@ -13,7 +13,7 @@ html {
   font-family: 'Comic Neue';
   font-style: normal;
   font-weight: 400;
-  background-image: url('../fonts/comic-neue-v8-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  background-image: url('../font/comic-neue-v8-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 h1 {
