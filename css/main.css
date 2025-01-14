@@ -13,7 +13,7 @@ html {
   font-family: 'Comic Neue';
   font-style: normal;
   font-weight: 400;
-  background-image: url('../font/comic-neue-v8-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  background-image: src('../font/comic-neue-v8-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 h1 {
@@ -86,7 +86,7 @@ a:visited {
 
 #experience {
     color: #FFDE00;
-    text-shadow: 1px 2px 2px rgb(0 , 0, 0);
+    text-shadow: 1px 2px 2px rgb(0, 0, 0);
     text-align: center;
 }
  
