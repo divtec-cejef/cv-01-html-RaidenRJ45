@@ -78,7 +78,7 @@ a:visited {
 .enEm {
     size: 2em;
     text-align: center;
-    text-decoration: none;
+    list-style-type: none;
 }
 
 
